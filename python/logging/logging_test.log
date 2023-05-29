@@ -1,0 +1,3 @@
+root - WARNING - This is warning level logging.
+root - ERROR - This is error level logging.
+root - CRITICAL - This is critical level logging.
